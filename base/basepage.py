@@ -1,7 +1,7 @@
 """
 @package base
 
-Base Page class implementation
+base Page class implementation
 It implements methods which are common to all the pages throughout the application
 
 This class needs to be inherited by all the page classes
