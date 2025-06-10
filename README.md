@@ -1,15 +1,24 @@
-Selenium WebDriver 4 with Python
-Test Case - enter web, login, find specific course, select, enroll, send fake bank card information, find the final error, report sucssesful test;
-Resources - using the mainframe made and learned during the course; 
-Note - this course is much older and some consepts are changed; 
-Files - Page, Test, conftest, Framework as Selenium, Base, Logger; 
-Base_url = "https://www.letskodeit.com/practice"
+# Selenium WebDriver 4 with Python
 
-To use the code you must have: 
-Python
-Selenium
-pytest;
+## Test Case Overview
+This project automates the following scenario:
+- Enter the website
+- Log in
+- Find a specific course
+- Select and enroll in the course
+- Enter fake bank card information
+- Detect the final error
+- Report a successful test
 
-the code supports these browsers: Chrome, Edge, Firefox and you can use them --browser edge/chrome/firefox;
-starting command: pytest tests/course_test.py;
+## Resources
+The project uses the framework and knowledge gained during the course.
 
+
+## Main Directorys
+- `Page`
+- `Test`
+- `conftest`
+- `Base`
+- `Logger`
+
+## Base URL
