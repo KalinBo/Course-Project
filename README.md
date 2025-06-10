@@ -5,3 +5,4 @@ Resources - using the mainframe made and learned during the course
 Note - this course is much older and some consepts are changed
 Files - Page, Test, conftest, Framework as Selenium, Base, Logger
 Base_url = "https://www.letskodeit.com/practice"
+Use Master branch
